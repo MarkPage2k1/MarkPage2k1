@@ -12,15 +12,46 @@
 - ⚡ &nbsp;Fun fact **I think I am funny**.
 - ✉️ &nbsp;You can shoot me an email at markpage.dev@gmail.com! I'll try to respond as soon as I can.
 
+### 🥷 Practice skills with me:
+<div align="left">
+  <a href="https://www.hackerrank.com/MarkPage" target="_blank"> 
+      <img src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" alt="hackerrank" width="40" height="40"/> 
+  </a> 
+</div>
+
 ### 🧰 Languages and Tools I used to use:
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+<div align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
+  </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">
+  </a> 
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
+  </a>
+  <a href="https://www.geeksforgeeks.org/php-tutorials/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.geeksforgeeks.org/python-programming-language" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.geeksforgeeks.org/javascript" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
+  </a> 
+</div>
 
 <img alt="Night Coding" src="./Source/Night-Coding.gif" align="right"/>
 
@@ -53,8 +84,8 @@
 ### 🤝🏻 &nbsp;Connect with me:
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/-zeroorhero.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Dong%20Minh%20Phu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-markpage2k1.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/markpage2k1/"><img src="https://img.shields.io/badge/-Dong%20Minh%20Phu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:markpage.dev@gmail.com"><img src="https://img.shields.io/badge/-markpage.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/minhphu.it_"><img src="https://img.shields.io/badge/-@minhphu.it__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/minhphu.it"><img src="https://img.shields.io/badge/-@minhphu.it-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
