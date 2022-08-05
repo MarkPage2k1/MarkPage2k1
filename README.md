@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark Page</h1>
-<h3 align="center">A student is studying code from Vietnam.</h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&width=500&lines=A+student+is+studying+code+from+VietNam;Always+learning+new+things;Back-end+web+developer;I+love+web+security;s1lver8ulle7+is+my+nickname+%F0%9F%91%BE%F0%9F%91%BE%F0%9F%91%BE" alt="Typing SVG" /></a>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markpage2k1&label=Profile%20views&color=0e75b6&style=flat" alt="markpage2k1" /> </p>
 
